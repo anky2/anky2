@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>I live by letting things happen.</span></b><br><br><i> - Dogen</i></div>
-<br><br><kbd>Last updated:Fri Mar 18 12:20:47 2022</kbd>
+<div align="center"><b><span>When something is important enough, you do it even if the odds are not in your favor.</span></b><br><br><i> - Elon Musk</i></div>
+<br><br><kbd>Last updated:Sat Mar 19 12:20:16 2022</kbd>
