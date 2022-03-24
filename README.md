@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The dead receive more flowers than the living because regret is stronger than gratitude.</span></b><br><br><i> - Anne Frank</i></div>
-<br><br><kbd>Last updated:Wed Mar 23 12:23:34 2022</kbd>
+<div align="center"><b><span>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </span></b><br><br><i> - Charles Swindoll</i></div>
+<br><br><kbd>Last updated:Thu Mar 24 12:23:05 2022</kbd>
