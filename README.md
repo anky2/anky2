@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </span></b><br><br><i> - Charles Swindoll</i></div>
-<br><br><kbd>Last updated:Thu Mar 24 12:23:05 2022</kbd>
+<div align="center"><b><span>She who loves roses must be patient and not cry out when she is pierced by thorns.</span></b><br><br><i> - Kenji Miyazawa</i></div>
+<br><br><kbd>Last updated:Fri Mar 25 12:47:00 2022</kbd>
