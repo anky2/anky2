@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>She who loves roses must be patient and not cry out when she is pierced by thorns.</span></b><br><br><i> - Kenji Miyazawa</i></div>
-<br><br><kbd>Last updated:Fri Mar 25 12:47:00 2022</kbd>
+<div align="center"><b><span>The only time you run out of chances is when you stop taking them.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Sat Mar 26 12:19:37 2022</kbd>
