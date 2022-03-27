@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The only time you run out of chances is when you stop taking them.</span></b><br><br><i> - Unknown</i></div>
-<br><br><kbd>Last updated:Sat Mar 26 12:19:37 2022</kbd>
+<div align="center"><b><span>When reading, only read. When eating, only eat. When thinking, only think.</span></b><br><br><i> - Seungsahn</i></div>
+<br><br><kbd>Last updated:Sun Mar 27 12:20:03 2022</kbd>
