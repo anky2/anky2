@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</span></b><br><br><i> - J.R.R. Tolkien</i></div>
-<br><br><kbd>Last updated:Mon Mar 28 12:22:24 2022</kbd>
+<div align="center"><b><span>Quiet people have the loudest minds.</span></b><br><br><i> - Stephen Hawking</i></div>
+<br><br><kbd>Last updated:Tue Mar 29 12:23:35 2022</kbd>
