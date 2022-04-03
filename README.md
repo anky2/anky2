@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Sometimes you have to shut your eyes, so you can see the real beauty.</span></b><br><br><i> - Kilian Jornet</i></div>
-<br><br><kbd>Last updated:Sat Apr  2 12:19:47 2022</kbd>
+<div align="center"><b><span>The big thing is to make a winning effort. I'm not obsessed with wins.</span></b><br><br><i> - Morgan Wootten</i></div>
+<br><br><kbd>Last updated:Sun Apr  3 12:20:30 2022</kbd>
