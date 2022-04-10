@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>True wealth is of the heart, not of the purse.</span></b><br><br><i> - Og Mandino</i></div>
-<br><br><kbd>Last updated:Sat Apr  9 12:20:20 2022</kbd>
+<div align="center"><b><span>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</span></b><br><br><i> - Steve Harvey</i></div>
+<br><br><kbd>Last updated:Sun Apr 10 12:20:22 2022</kbd>
