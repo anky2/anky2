@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Don't spend time beating on a wall, hoping to transform it into a door.</span></b><br><br><i> - Coco Chanel</i></div>
-<br><br><kbd>Last updated:Wed Apr 13 12:22:19 2022</kbd>
+<div align="center"><b><span>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</span></b><br><br><i> - Zen Proverb</i></div>
+<br><br><kbd>Last updated:Thu Apr 14 12:26:07 2022</kbd>
