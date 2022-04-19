@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Only the hand that erases can write the true thing.</span></b><br><br><i> - Meister Eckhart</i></div>
-<br><br><kbd>Last updated:Mon Apr 18 12:23:27 2022</kbd>
+<div align="center"><b><span>The more you are motivated by Love, The more Fearless & Free your action will be.</span></b><br><br><i> - Dalai Lama</i></div>
+<br><br><kbd>Last updated:Tue Apr 19 12:27:03 2022</kbd>
