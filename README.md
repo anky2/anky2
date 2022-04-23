@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You can easily judge the character of a man by how he treats those who can do nothing for him.</span></b><br><br><i> - Johann Wolfgang von Goethe</i></div>
-<br><br><kbd>Last updated:Fri Apr 22 12:25:42 2022</kbd>
+<div align="center"><b><span>There are no accidents... there is only some purpose that we haven't yet understood.</span></b><br><br><i> - Deepak Chopra</i></div>
+<br><br><kbd>Last updated:Sat Apr 23 12:21:21 2022</kbd>
