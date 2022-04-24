@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>There are no accidents... there is only some purpose that we haven't yet understood.</span></b><br><br><i> - Deepak Chopra</i></div>
-<br><br><kbd>Last updated:Sat Apr 23 12:21:21 2022</kbd>
+<div align="center"><b><span>It isn't what you do, but how you do it.</span></b><br><br><i> - John Wooden</i></div>
+<br><br><kbd>Last updated:Sun Apr 24 12:21:14 2022</kbd>
