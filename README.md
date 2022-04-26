@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</span></b><br><br><i> - Kamal Ravikant</i></div>
-<br><br><kbd>Last updated:Mon Apr 25 12:24:05 2022</kbd>
+<div align="center"><b><span>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</span></b><br><br><i> - Naval Ravikant</i></div>
+<br><br><kbd>Last updated:Tue Apr 26 12:27:01 2022</kbd>
