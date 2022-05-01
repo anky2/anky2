@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Obstacles are those frightful things you see when you take your eyes off your goal.</span></b><br><br><i> - Henry Ford</i></div>
-<br><br><kbd>Last updated:Sat Apr 30 12:21:39 2022</kbd>
+<div align="center"><b><span>People who belittle people, will be LITTLE people, and will accomplish very Little</span></b><br><br><i> - Norman Vincent Peale</i></div>
+<br><br><kbd>Last updated:Sun May  1 12:22:47 2022</kbd>
