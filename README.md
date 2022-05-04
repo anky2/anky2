@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Just living is not enough... one must have sunshine, freedom, and a little flower. </span></b><br><br><i> - Hans Christian Andersen</i></div>
-<br><br><kbd>Last updated:Tue May  3 12:29:08 2022</kbd>
+<div align="center"><b><span>Trying to define yourself is like trying to bite your own teeth.</span></b><br><br><i> - Zen Proverb</i></div>
+<br><br><kbd>Last updated:Wed May  4 12:27:59 2022</kbd>
