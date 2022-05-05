@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Trying to define yourself is like trying to bite your own teeth.</span></b><br><br><i> - Zen Proverb</i></div>
-<br><br><kbd>Last updated:Wed May  4 12:27:59 2022</kbd>
+<div align="center"><b><span>Chase your passion, not your pension. </span></b><br><br><i> - Denis Waitley</i></div>
+<br><br><kbd>Last updated:Thu May  5 12:27:06 2022</kbd>
