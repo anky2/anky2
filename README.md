@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Chase your passion, not your pension. </span></b><br><br><i> - Denis Waitley</i></div>
-<br><br><kbd>Last updated:Thu May  5 12:27:06 2022</kbd>
+<div align="center"><b><span>Success is getting what you want, happiness is wanting what you get.</span></b><br><br><i> - W.P. Kinsella</i></div>
+<br><br><kbd>Last updated:Fri May  6 12:26:35 2022</kbd>
