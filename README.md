@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Success is getting what you want, happiness is wanting what you get.</span></b><br><br><i> - W.P. Kinsella</i></div>
-<br><br><kbd>Last updated:Fri May  6 12:26:35 2022</kbd>
+<div align="center"><b><span>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</span></b><br><br><i> - Naval Ravikant</i></div>
+<br><br><kbd>Last updated:Sat May  7 12:22:27 2022</kbd>
