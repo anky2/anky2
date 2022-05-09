@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Your happiness is what truly matters most. Do what you have to do in order to be happy.</span></b><br><br><i> - Brian Tracy</i></div>
-<br><br><kbd>Last updated:Sun May  8 12:22:19 2022</kbd>
+<div align="center"><b><span>You can often change your circumstances by changing your attitude.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
+<br><br><kbd>Last updated:Mon May  9 12:25:27 2022</kbd>
