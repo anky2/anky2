@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You can often change your circumstances by changing your attitude.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
-<br><br><kbd>Last updated:Mon May  9 12:25:27 2022</kbd>
+<div align="center"><b><span>Yesterday is gone. Tomorrow has not yet come. We have only today.</span></b><br><br><i> - Mother Teresa</i></div>
+<br><br><kbd>Last updated:Tue May 10 12:28:30 2022</kbd>
