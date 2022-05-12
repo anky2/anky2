@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life is the art of drawing sufficient conclusions from insufficient premises.</span></b><br><br><i> - Samuel Butler</i></div>
-<br><br><kbd>Last updated:Wed May 11 12:30:34 2022</kbd>
+<div align="center"><b><span>The one who praises you is a thief. The one who criticizes you is your true friend.</span></b><br><br><i> - Seungsahn</i></div>
+<br><br><kbd>Last updated:Thu May 12 12:27:15 2022</kbd>
