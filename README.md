@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The one who praises you is a thief. The one who criticizes you is your true friend.</span></b><br><br><i> - Seungsahn</i></div>
-<br><br><kbd>Last updated:Thu May 12 12:27:15 2022</kbd>
+<div align="center"><b><span>Life is but one dream flowing into another.</span></b><br><br><i> - Ming-Dao Deng</i></div>
+<br><br><kbd>Last updated:Fri May 13 12:33:00 2022</kbd>
