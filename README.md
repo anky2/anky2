@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The opportunity of defeating the enemy is provided by the enemy himself.</span></b><br><br><i> - Sun Tzu</i></div>
-<br><br><kbd>Last updated:Sun May 15 12:25:21 2022</kbd>
+<div align="center"><b><span>Empty your mind, be formless.</span></b><br><br><i> - Bruce Lee</i></div>
+<br><br><kbd>Last updated:Mon May 16 12:28:02 2022</kbd>
