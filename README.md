@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If you are unable to find the truth right where you are, where else do you expect to find it?</span></b><br><br><i> - Dogen</i></div>
-<br><br><kbd>Last updated:Tue May 17 12:28:03 2022</kbd>
+<div align="center"><b><span>What most people need to learn in life is how to love people and use things instead of using people and loving things.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Wed May 18 12:27:55 2022</kbd>
