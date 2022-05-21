@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A man with outward courage dares to die: a man with inner courage dares to live.</span></b><br><br><i> - Lao Tzu</i></div>
-<br><br><kbd>Last updated:Fri May 20 12:26:37 2022</kbd>
+<div align="center"><b><span>Never let the things you can't do stop you from doing what you can.</span></b><br><br><i> - Ronald Reagan</i></div>
+<br><br><kbd>Last updated:Sat May 21 12:22:57 2022</kbd>
