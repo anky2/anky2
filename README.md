@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The question isn't who is going to let me; it's who is going to stop me.</span></b><br><br><i> - Ayn Rand</i></div>
-<br><br><kbd>Last updated:Mon May 23 12:25:48 2022</kbd>
+<div align="center"><b><span>I can think of nothing less pleasurable than a life devoted to pleasure.</span></b><br><br><i> - John D. Rockefeller</i></div>
+<br><br><kbd>Last updated:Tue May 24 12:27:27 2022</kbd>
