@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life is a gift. Never forget to enjoy and bask in every moment you are in.</span></b><br><br><i> - Celestine Chua</i></div>
-<br><br><kbd>Last updated:Sat May 28 12:22:22 2022</kbd>
+<div align="center"><b><span>Little minds have little worries, big minds have no time for worries.</span></b><br><br><i> - Ralph Waldo Emerson</i></div>
+<br><br><kbd>Last updated:Sun May 29 12:23:15 2022</kbd>
