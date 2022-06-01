@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Plants grow weak without wind.</span></b><br><br><i> - Maxime Lagace</i></div>
-<br><br><kbd>Last updated:Tue May 31 12:27:42 2022</kbd>
+<div align="center"><b><span>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</span></b><br><br><i> - Albus Dumbledore</i></div>
+<br><br><kbd>Last updated:Wed Jun  1 12:31:52 2022</kbd>
