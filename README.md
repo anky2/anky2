@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</span></b><br><br><i> - Albus Dumbledore</i></div>
-<br><br><kbd>Last updated:Wed Jun  1 12:31:52 2022</kbd>
+<div align="center"><b><span>Talk to someone about themselves and they'll listen for hours.</span></b><br><br><i> - Dale Carnegie</i></div>
+<br><br><kbd>Last updated:Thu Jun  2 12:29:41 2022</kbd>
