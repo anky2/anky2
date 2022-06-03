@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Talk to someone about themselves and they'll listen for hours.</span></b><br><br><i> - Dale Carnegie</i></div>
-<br><br><kbd>Last updated:Thu Jun  2 12:29:41 2022</kbd>
+<div align="center"><b><span>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</span></b><br><br><i> - Alfred Adler</i></div>
+<br><br><kbd>Last updated:Fri Jun  3 12:24:22 2022</kbd>
