@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The most wasted day of all is that on which we have not laughed.</span></b><br><br><i> - Nicolas Chamfort</i></div>
-<br><br><kbd>Last updated:Wed Jun  8 12:28:16 2022</kbd>
+<div align="center"><b><span>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</span></b><br><br><i> - Henry Ward Beecher</i></div>
+<br><br><kbd>Last updated:Thu Jun  9 12:27:10 2022</kbd>
