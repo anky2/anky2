@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</span></b><br><br><i> - Henry Ward Beecher</i></div>
-<br><br><kbd>Last updated:Thu Jun  9 12:27:10 2022</kbd>
+<div align="center"><b><span>Learn to use your emotions to think, not think with your emotions.</span></b><br><br><i> - Robert Kiyosaki</i></div>
+<br><br><kbd>Last updated:Fri Jun 10 12:27:30 2022</kbd>
