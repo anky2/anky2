@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Learn to use your emotions to think, not think with your emotions.</span></b><br><br><i> - Robert Kiyosaki</i></div>
-<br><br><kbd>Last updated:Fri Jun 10 12:27:30 2022</kbd>
+<div align="center"><b><span>One must be poor to know the luxury of giving.</span></b><br><br><i> - George Eliot</i></div>
+<br><br><kbd>Last updated:Sat Jun 11 12:21:20 2022</kbd>
