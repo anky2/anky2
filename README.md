@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life is like underwear, should be changed twice a day.  </span></b><br><br><i> - Ray Bradbury</i></div>
-<br><br><kbd>Last updated:Sun Jun 12 12:20:34 2022</kbd>
+<div align="center"><b><span>Do what you can, with what you have, where you are.</span></b><br><br><i> - Theodore Roosevelt</i></div>
+<br><br><kbd>Last updated:Mon Jun 13 12:26:21 2022</kbd>
