@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Do what you can, with what you have, where you are.</span></b><br><br><i> - Theodore Roosevelt</i></div>
-<br><br><kbd>Last updated:Mon Jun 13 12:26:21 2022</kbd>
+<div align="center"><b><span>The pen is the tongue of the mind. </span></b><br><br><i> - Miguel de Cervantes</i></div>
+<br><br><kbd>Last updated:Tue Jun 14 12:25:22 2022</kbd>
