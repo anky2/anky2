@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you judge others, you do not define them, you define yourself.</span></b><br><br><i> - Earl Nightingale</i></div>
-<br><br><kbd>Last updated:Fri Jun 17 12:28:32 2022</kbd>
+<div align="center"><b><span>What's the point in being smart enough to read, if everything you read makes you dumb?</span></b><br><br><i> - C. Sean McGee</i></div>
+<br><br><kbd>Last updated:Sat Jun 18 12:21:30 2022</kbd>
