@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What's the point in being smart enough to read, if everything you read makes you dumb?</span></b><br><br><i> - C. Sean McGee</i></div>
-<br><br><kbd>Last updated:Sat Jun 18 12:21:30 2022</kbd>
+<div align="center"><b><span>When you have to make a choice and don't make it, that is in itself a choice.</span></b><br><br><i> - William James</i></div>
+<br><br><kbd>Last updated:Sun Jun 19 12:21:52 2022</kbd>
