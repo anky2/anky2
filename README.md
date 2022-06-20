@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you have to make a choice and don't make it, that is in itself a choice.</span></b><br><br><i> - William James</i></div>
-<br><br><kbd>Last updated:Sun Jun 19 12:21:52 2022</kbd>
+<div align="center"><b><span>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</span></b><br><br><i> - Steve Harvey</i></div>
+<br><br><kbd>Last updated:Mon Jun 20 12:25:20 2022</kbd>
