@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>People don't care how much you know until they know how much you care.</span></b><br><br><i> - Theodore Roosevelt</i></div>
-<br><br><kbd>Last updated:Wed Jun 22 12:26:56 2022</kbd>
+<div align="center"><b><span>Sometimes a change of perspective is all it takes to see the light.</span></b><br><br><i> - Dan Brown</i></div>
+<br><br><kbd>Last updated:Thu Jun 23 12:27:28 2022</kbd>
