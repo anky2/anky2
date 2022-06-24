@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Sometimes a change of perspective is all it takes to see the light.</span></b><br><br><i> - Dan Brown</i></div>
-<br><br><kbd>Last updated:Thu Jun 23 12:27:28 2022</kbd>
+<div align="center"><b><span>When you make a choice, you change the future.</span></b><br><br><i> - Deepak Chopra</i></div>
+<br><br><kbd>Last updated:Fri Jun 24 12:26:44 2022</kbd>
