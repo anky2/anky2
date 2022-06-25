@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you make a choice, you change the future.</span></b><br><br><i> - Deepak Chopra</i></div>
-<br><br><kbd>Last updated:Fri Jun 24 12:26:44 2022</kbd>
+<div align="center"><b><span>We become brave by doing brave acts.</span></b><br><br><i> - Aristotle</i></div>
+<br><br><kbd>Last updated:Sat Jun 25 12:20:56 2022</kbd>
