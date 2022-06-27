@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is better to learn late than never.</span></b><br><br><i> - Publilius Syrus</i></div>
-<br><br><kbd>Last updated:Sun Jun 26 12:22:23 2022</kbd>
+<div align="center"><b><span>If you spend too much time thinking about a thing, you'll never get it done. </span></b><br><br><i> - Bruce Lee</i></div>
+<br><br><kbd>Last updated:Mon Jun 27 12:28:29 2022</kbd>
