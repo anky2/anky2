@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>People inspire you, or they drain you. Pick them wisely.</span></b><br><br><i> - Les Brown</i></div>
-<br><br><kbd>Last updated:Wed Jun 29 12:26:31 2022</kbd>
+<div align="center"><b><span>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</span></b><br><br><i> - Sonia Ricotti</i></div>
+<br><br><kbd>Last updated:Thu Jun 30 12:28:13 2022</kbd>
