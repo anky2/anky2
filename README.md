@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Until we can manage time, we can manage nothing else.</span></b><br><br><i> - Peter Drucker</i></div>
-<br><br><kbd>Last updated:Fri Jul  1 12:27:43 2022</kbd>
+<div align="center"><b><span>Realize deeply that the present moment is all you ever have. </span></b><br><br><i> - Eckhart Tolle</i></div>
+<br><br><kbd>Last updated:Sat Jul  2 12:21:57 2022</kbd>
